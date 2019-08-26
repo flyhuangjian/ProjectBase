@@ -1,3 +1,5 @@
 Git is a distributed version control system.
 Git is free software distributed under the GPL.
 I'm your father,
+you is my son.
+Git has a mutable index called stage.
