@@ -1,9 +1,0 @@
-Git is a distributed version control system.
-Git is free software distributed under the GPL.
-I'm your father,
-you is my son.
-Git has a mutable index called stage.
-I just want to go abroad,Why is It so difficult?.
-I must study hard.
-My name is Hj.
-I'm back.
